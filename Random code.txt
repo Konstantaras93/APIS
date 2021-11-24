@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/45086452/python-pyowm-library-average-tempature
