@@ -1,0 +1,10 @@
+id,City,Country,Population_2021,Population_2020,difference_of,Country_code,CityCountry
+13,Istanbul,Turkey,15415197,15190336,1.48%,TR,"Istanbul, TR"
+24,Moscow,Russia,12593252,12537954,0.44%,RU,"Moscow, RU"
+28,Paris,France,11078546,11017230,0.56%,FR,"Paris, FR"
+35,London,United Kingdom,9425622,9304016,1.31%,GB,"London, GB"
+67,Barcelona,Spain,5624498,5585556,0.70%,ES,"Barcelona, ES"
+95,Rome,Italy,4278350,4257056,0.50%,IT,"Rome, IT"
+124,Berlin,Germany,3566791,3562038,0.13%,DE,"Berlin, DE"
+148,Athens,Greece,3153255,3153355,-0.00%,GR,"Athens, GR"
+367,Zurich,Switzerland,1407572,1395356,0.88%,CH,"Zurich, CH"
